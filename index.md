@@ -18,7 +18,7 @@ Fortunately, both personae coordinate activities together and efficiently, with 
 
 ## Published Article
 
-[_La creación de léxico humorístico en Les Luthiers_](revistascientificas.filo.uba.ar/index.php/sys/article/view/5510), in the journal **Signo y Seña** from the University of Buenos Aires.
+[_La creación de léxico humorístico en Les Luthiers_](http://revistascientificas.filo.uba.ar/index.php/sys/article/view/5510), in the journal **Signo y Seña** from the University of Buenos Aires.
 
 Nothing like creating wacky words just for fun. Only how does this work and how does the coining of funny words difer from regular word coining? If you read Spanish, this is the article to understand this process. The study is based on the work of the Argentinian humor group **Les Luthiers**
 
