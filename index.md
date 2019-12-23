@@ -67,7 +67,7 @@ Great collaboration with the folk instrumental group **Barroco Andino**!
 
 Ylioppilaskunnan Laulajat, Finland's oldest Finnish speaking choir.
 
-[Selkouutiset](yle.fi/uutiset/osasto/selkouutiset)
+[Selkouutiset](https://yle.fi/uutiset/osasto/selkouutiset)
 
 News in clear Finnish, fastest way to improve your Finnish!
 
