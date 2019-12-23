@@ -4,13 +4,13 @@ layout: default
 
 ## Introduction
 
-<img src="assets/images/image2.jpeg" alt="Photo" hspace="20" width="30%" align="right"/> Welcome to my Github page. I arrived to Finland almost five years ago, and to talk about my current life I should start by confessing that I lead somewhat of a double life. My daytime persona is a dedicated Spanish Philology student at the University of Helsinki, with a wide range of interests in the fields of General Linguistics, Language Education and especially English Philology. This Rogelio is already at the end of his Bachelor level studies, majoring in Spanish Philology with a minor in English as well.
+<img src="assets/images/image3.jpeg" alt="Photo" hspace="20" width="30%" align="right"/> Welcome to my Github page. I arrived to Finland almost five years ago, and to talk about my current life I should start by confessing that I lead somewhat of a double life. My daytime persona is a dedicated Spanish Philology student at the University of Helsinki, with a wide range of interests in the fields of General Linguistics, Language Education and especially English Philology. This Rogelio is already at the end of his Bachelor level studies, majoring in Spanish Philology with a minor in English as well.
 
 My other persona has inherited some traits from my former profession, the one I had in my home country Chile: I was a professional musician, a choir conductor and gig ensemble singer. I could just describe this side of me as a hobby, rightly so considering that I sing with several other guys at a well known Helsinki based choir. On the other hand, I also still work as a conductor for Symbioosin Kuoro, a very rewarding job.
 
 Fortunately, both personae coordinate activities together and efficiently, with much understanding for each other's needs. And both are tolerated by the most wonderful family imaginable: wife and three children, the youngest one nearly two weeks old.
 
-### Read my [CV](./assets/CV_of_Rogelio_Gonzalez_Aviles.pdf)
+##### Read my [CV](./assets/CV_of_Rogelio_Gonzalez_Aviles.pdf)
 
 ## Find me on
 
@@ -59,7 +59,7 @@ March 2014, **Copiu VocalEnsamble** visits Querétaro, Mexico, for sharing exper
 [Bach with Andean instruments](https://www.youtube.com/watch?v=mGqQG3ArWb0&feature=youtu.be)
 
 In 2013 Chilean-German choir **Divertimento** celebrated 500 years of Lutheranism by performing a Bach Cantata with traditional native instruments from the Andean region.
-Great collaboration with the instrumental group **Barroco Andino**!  
+Great collaboration with the folk instrumental group **Barroco Andino**!  
 
 ## Misc. 
 
@@ -74,3 +74,5 @@ News in clear Finnish, fastest way to improve your Finnish!
 [Museo de la Memoria y los Derechos Humanos, Santiago de Chile](https://ww3.museodelamemoria.cl/english-version/)
 
 Chile's human rights museum. To understand what is happening now in Chile it's helpful to have a look at what happened over there 45 years ago. Similar ideas,... and partly similar methods too, what a shame. English version.
+
+[My other self](./assets/images/image1.jpeg) with Symbioosin kuoro
