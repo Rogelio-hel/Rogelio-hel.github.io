@@ -46,6 +46,10 @@ My email address rogelio.aviles@helsinki.fi
 
 A first try at Github and version control. A Makefile was edited, used to generate files and then the changes reverted. Quite a challenge for a beginner!
 
+[Introduction to Language Technology final project](./assets/KIK405_Final.pdf)
+
+Research on lexical variability in translated and source text. For me a first approach to language technology tools.
+
 ## Music Projects
 
 [Contemporary vocal music piece _Historia de una eternidad_](https://www.youtube.com/watch?v=RtcFz_w4TUU)
