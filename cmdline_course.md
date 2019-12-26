@@ -26,12 +26,21 @@ echo "hello world!" > output.txt
 ```
 
 This prints back the argument of the "echo" command, but it then redirects it to a text file, which is created if it doesn't already exist. In general, the ability to redirect the output with  >  proved to be very useful during the course.
+
+#### Week 2: Navigating a UNIX System
+
+In the second week we had a deeper look a the file organization system in UNIX. We also learned how to copy, move and remove files and directories. Most interesting was to see that mv is also used to rename files and directories. The ls command lists the contents of a given directory.
+The top command was a revealing way to see all the processes that are taking place at a given moment.  
+Finally, we connected with a remote server using the ssh command. I'm ashamed to confess that I had forgotten my password to the csc puhti server, but I managed to recover it on time.  
+The example of code I would like to mention from this week includes the first use I made of the pipe character:
 ```bash
 ls directory_name | wc -l
 ```
-A first approach to the use of pipes. The output of ls (list the contents of a given directory) is redirected to wc (word cound, with the -l flag to give only the line count of the output). This is a fast way to get the amount of files in a directory. The only output is just this number. 
+This uses the ls command to list the contents of a directory. But it then passes the output ("pipes" it) to the following command. This week saw also then our first approach to the use of pipes. The output of ls (list the contents of a given directory) is redirected to wc (word cound, with the -l flag to give only the line count of the output). This is a fast way to get the amount of files in a directory. The only output is just this number. 
 
-#### Week 2: Navigating a UNIX System
+We saw a very informative interview with Tatu Ylönen, creator of the ssh commmand. Here Tatu's picture:
+
+![Tatu Ylonen](https://is.mediadelivery.fi/img/1440/860ef1a8e18647fc8650858820ad3eb9.jpg){:height="50%" width="50%"}
 
 #### Week 3: Basic Corpus Processing
 
