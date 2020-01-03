@@ -151,10 +151,11 @@ For this we learned about the **git** commands and used **github** as a reposito
 
  It _commits_ to the changes made, that is, the changes are accepted as final changes. The **-m** flag allows to include a message so that it will be easy to find this particular stage of the project when searching for it.
 
-* ```git push -u <remote_name> <local_name>```
+* ```git push```
 
  It uploads or _pushes_ the local repository to the remote one.
-* ```git pull <remote_name> <local_name>```
+* ```git pull```
+
  It downloads, so to speak, or _pulls_ the remote repository to the local one.
 
 * ```git branch <new_name>```
