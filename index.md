@@ -20,11 +20,11 @@ Fortunately, both personae coordinate activities together and efficiently, with 
 
 [_La creación de léxico humorístico en Les Luthiers_](http://revistascientificas.filo.uba.ar/index.php/sys/article/view/5510), in the journal **Signo y Seña** from the University of Buenos Aires.
 
-Nothing like creating wacky words just for fun. Only how does this work and how does the coining of funny words difer from regular word coining? If you read Spanish, this is the article to understand this process. The study is based on the work of the Argentinian humor group **Les Luthiers**
+Nothing like creating wacky words just for fun. Only, how does morphology work in this process and how does the coining of funny words difer from regular word coining? If you read Spanish, this is the article to understand this process. The study is based on the work of the Argentinian humor group [**Les Luthiers**](http://www.lesluthiers.com).
 
 ## Contact
 
-My email address rogelio.aviles@helsinki.fi
+My email address <rogelio.aviles@helsinki.fi>
 
 ## Courses I've Taken
 
@@ -69,7 +69,7 @@ Great collaboration with the folk instrumental group **Barroco Andino**!
 
 [YL](https://yl.fi)
 
-Ylioppilaskunnan Laulajat, Finland's oldest Finnish speaking choir.
+Ylioppilaskunnan Laulajat, Finland's oldest Finnish speaking choir... where I sing first baritone.
 
 [Selkouutiset](https://yle.fi/uutiset/osasto/selkouutiset)
 
